@@ -126,13 +126,11 @@ http://localhost:8080/avaliacoes/idAvaliacao
 
 {
         "alunoId": 1,
-        "peso": 80.0,
+        "peso": 82.3,
         "altura": 190.0
     }
 
 ```
-
-
 
 
 
